@@ -1,6 +1,6 @@
 {
   "latest": "1.0.0",
   "devices": [
-    {"name": "swing", "latest":"1.0.0", "download_url":"https://github.com/microBeesTech/musictribe/releases/download/swing_1.0.0/Control.Center.app.zip"}
+    {"name": "swing", "latest":"1.0.0", "download_url":"https://github.com/microBeesTech/musictribe/releases/download/swing_1.0.0/swing-1.0.0.bin"}
   ]
 }
