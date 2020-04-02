@@ -1,6 +1,6 @@
 {
-  latest: "1.0.0",
-  devices: [
-    {name: "swing", latest:"1.0.0", download_url:"https://github.com/microbeesTech/releases/"}
+  "latest": "1.0.0",
+  "devices": [
+    {"name": "swing", "latest":"1.0.0", "download_url":"https://github.com/microbeesTech/releases/"}
   ]
 }
