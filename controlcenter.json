@@ -1,6 +1,8 @@
 {
-  "latest": "1.0.0", "download_url":"https://github.com/microBeesTech/musictribe/releases/download/controlcenter-1.0.0/controlcenter-1.0.0-osx.zip",
-  "devices": [
-    {"name": "swing", "latest":"1.0.0", "download_url":"https://github.com/microBeesTech/musictribe/releases/download/swing_1.0.0/swing-1.0.0.bin"}
+  "latest": "1.0.1", 
+  "releasenote": "minor updates",
+  "assets": [
+    { "name":"ControlCenter-1.0.1-windows.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010001/ControlCenter-1.0.1-windows.zip" },
+	{ "name":"ControlCenter-1.0.1-osx.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010001/ControlCenter-1.0.1-osx.zip" }
   ]
 }
