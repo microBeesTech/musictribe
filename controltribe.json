@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1", 
+  "releasenote": "minor updates",
+  "assets": [
+    { "name":"ControlTribe-1.0.1-windows.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010001/ControlTribe-1.0.1-windows.zip" },
+	{ "name":"ControlTribe-1.0.1-osx.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010001/ControlTribe-1.0.1-osx.zip" }
+  ]
+}
