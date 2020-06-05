@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1", 
+  "version": "1.0.0", 
   "releasenote": "minor updates",
   "assets": [
     { "name":"ControlTribe-1.0.1-windows.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010001/ControlTribe-1.0.1-windows.zip" },
