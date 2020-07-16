@@ -2,7 +2,7 @@
   "version": "1.0.4", 
   "releasenote": "minor updates",
   "assets": [
-    { "name":"ControlTribe-1.0.4-windows.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010003/ControlTribe-1.0.4-windows.zip" },
-	{ "name":"ControlTribe-1.0.4-osx.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010003/ControlTribe-1.0.4-osx.zip" }
+    { "name":"ControlTribe-1.0.4-windows.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010004/ControlTribe-1.0.4-windows.zip" },
+	{ "name":"ControlTribe-1.0.4-osx.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010004/ControlTribe-1.0.4-osx.zip" }
   ]
 }
