@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "releasenote": "minor fixes",
+  "version": "1.0.5",
+  "releasenote": "Solved MOD CV output signal issue",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.4.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.4.zip" },
+    { "name":"Swing-1.0.5.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.5.zip" },
   ]
 }
