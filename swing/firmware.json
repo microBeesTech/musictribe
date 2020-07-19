@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "releasenote": "Solved MOD CV output signal issue",
+  "version": "1.0.6",
+  "releasenote": "Improved Keyboard scan accuracy",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.5.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.5.zip" },
+    { "name":"Swing-1.0.6.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.6.zip" },
   ]
 }
