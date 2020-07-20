@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "releasenote": "Improved Keyboard scan accuracy",
+  "version": "1.0.7",
+  "releasenote": "Improved Velocity state machine",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.6.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.6.zip" },
+    { "name":"Swing-1.0.7.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.7.zip" },
   ]
 }
