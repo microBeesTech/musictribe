@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "releasenote": "Improved Velocity state machine",
+  "version": "1.0.8",
+  "releasenote": "Velocity calculation improvements",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.7.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.7.zip" },
+    { "name":"Swing-1.0.8.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.8.zip" },
   ]
 }
