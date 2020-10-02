@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "releasenote": "Fixed SYNC OUT bug",
+  "version": "1.0.12",
+  "releasenote": "Added automatic bootloader command",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.11.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.11.zip" },
+    { "name":"Swing-1.0.12.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.12.zip" },
   ]
 }
