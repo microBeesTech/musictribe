@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
-  "releasenote": "Added automatic bootloader command",
+  "version": "1.0.13",
+  "releasenote": "Minor bug fix",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.12.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.12.zip" },
+    { "name":"Swing-1.0.13.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.13.zip" },
   ]
 }
