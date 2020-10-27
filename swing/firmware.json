@@ -1,8 +1,8 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "releasenote": "Minor bug fix",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.17.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.17.zip" },
+    { "name":"Swing-1.0.18.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.18.zip" },
   ]
 }
