@@ -2,7 +2,7 @@
   "version": "1.0.7", 
   "releasenote": "improved device upgrading workflow",
   "assets": [
-    { "name":"ControlTribe-1.0.7-windows.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010006/ControlTribe-1.0.7-windows.zip" },
-	{ "name":"ControlTribe-1.0.7-osx.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010004/ControlTribe-1.0.7-osx.zip" }
+    { "name":"ControlTribe-1.0.7-windows.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010007/ControlTribe-1.0.7-windows.zip" },
+	{ "name":"ControlTribe-1.0.7-osx.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/v010007/ControlTribe-1.0.7-osx.zip" }
   ]
 }
