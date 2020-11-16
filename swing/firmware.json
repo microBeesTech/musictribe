@@ -1,8 +1,8 @@
 {
-  "version": "1.0.21",
-  "releasenote": "Knob selectors fix",
+  "version": "1.0.22",
+  "releasenote": "minor issue fix",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.21.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.21.zip" },
+    { "name":"Swing-1.0.22.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.22.zip" },
   ]
 }
