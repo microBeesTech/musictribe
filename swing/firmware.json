@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
-  "releasenote": "Sync PLL fine tuning",
+  "version": "1.0.24",
+  "releasenote": "MIDI Continue message fix",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.23.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.23.zip" },
+    { "name":"Swing-1.0.24.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.24.zip" },
   ]
 }
