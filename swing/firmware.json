@@ -1,8 +1,8 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "releasenote": "Analog knob selectors calibration",
   "ccversion": "1.0.0",
   "assets": [
-    { "name":"Swing-1.0.26.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.26.zip" },
+    { "name":"Swing-1.0.27.zip", "url": "https://raw.githubusercontent.com/microBeesTech/musictribe/master/swing/Swing-1.0.27.zip" },
   ]
 }
